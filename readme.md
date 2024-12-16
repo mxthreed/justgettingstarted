@@ -1,6 +1,6 @@
 ### My first repository is awesome!
 
-I'm MX3D and here this is my first GitHub repository.
+I'm MX3D and this is my first GitHub repository.
 If you see this file on my project, it's because I'm learning Git.
 
 My mood:
